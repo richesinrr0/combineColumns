@@ -1,3 +1,5 @@
+import pandas as pd
+
 def combineColumns(refCol, compCol):
     '''
     This function takes two unequal sized columns from different 
